@@ -9,7 +9,4 @@ public class Persona {
     Optional<String> nombre;
     Optional<String> poblacion;
     Optional<Integer> edad;
-
-    public Persona(String[] lineFilter) {
-    }
 }
